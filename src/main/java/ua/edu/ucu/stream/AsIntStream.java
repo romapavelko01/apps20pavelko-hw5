@@ -120,8 +120,4 @@ public class AsIntStream implements IntStream {
         return resArr;
     }
 
-    public Iterator<Integer> getMyIterator() {
-        return myIterator;
-    }
-
 }
